@@ -15,7 +15,7 @@
 
 
                                                                                                                                      
-<img src="walking-code.gif" width="auto">   ![YaseminBilgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
+<img src="walking-code.gif" width="auto">   ![YaseminBilgic's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaseminBilgic&theme=dark&show_icons=true)
 
 
 
